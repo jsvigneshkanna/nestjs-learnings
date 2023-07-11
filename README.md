@@ -19,3 +19,4 @@ Come lets all learn together and dance and chill 🎉
 ## Resources
 
 1. [Udemy NestJS course](https://propertyguru.udemy.com/course/nestjs-the-complete-developers-guide/)
+2. [typestack validator](https://github.com/typestack/class-validator)
