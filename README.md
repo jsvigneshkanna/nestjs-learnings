@@ -11,6 +11,11 @@ Come lets all learn together and dance and chill 🎉
 3. To generate new module with cli - nest generate module (module name without .module.ts)
 4. To generate new controller - nest generate controller (module-folder/controller name without .controller.ts) --flat
 
+## Testing Techniques
+
+1. We can use postman to call the APIs with required methods
+2. We can use VScode REST client [Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 ## Resources
 
 1. [Udemy NestJS course](https://propertyguru.udemy.com/course/nestjs-the-complete-developers-guide/)
